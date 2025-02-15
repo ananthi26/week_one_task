@@ -1,0 +1,36 @@
+# Ignore system directories
+AppData/
+Downloads/
+Favorites/
+Saved Games/
+Searches/
+IntelGraphicsProfiles/
+Links/
+
+# Ignore IDE-specific directories
+.vscode/
+.eclipse/
+eclipse-workspace/
+.p2/
+.gitconfig
+.ipython/
+.keras/
+.matplotlib/
+.streamlit/
+
+# Ignore user-specific files
+NTUSER.DAT
+NTUSER.DAT*
+ntuser.dat.LOG*
+ntuser.ini
+
+# Ignore Python-specific directories and files
+python/
+*.pyc
+*.pyo
+
+# Ignore other potential unnecessary files and directories
+3D Objects/
+example/
+git_cmd/
+yoga/
